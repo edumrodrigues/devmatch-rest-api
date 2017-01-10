@@ -75,3 +75,12 @@ local.properties
 
 # Code Recommenders
 .recommenders/
+
+# mvn
+.classpath
+.mvn/
+.project
+.settings/
+mvnw
+mvnw.cmd
+target/
